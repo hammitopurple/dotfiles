@@ -1,4 +1,9 @@
 {
+    "[markdown]": {
+        "editor.rulers": [
+            80
+        ]
+    },
     "editor.fontSize": 14,
     "editor.formatOnSave": true,
     "explorer.compactFolders": false,
