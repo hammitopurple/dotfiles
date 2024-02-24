@@ -1,0 +1,18 @@
+{
+    "editor.fontSize": 14,
+    "editor.formatOnSave": true,
+    "explorer.compactFolders": false,
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "telemetry.telemetryLevel": "off",
+    "terminal.integrated.scrollback": 1000000,
+    "update.showReleaseNotes": false,
+    "window.commandCenter": false,
+    "workbench.activityBar.location": "hidden",
+    "workbench.colorCustomizations": {
+        "tab.activeBorderTop": "#0089d2"
+    },
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.startupEditor": "none"
+}
